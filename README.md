@@ -1,3 +1,5 @@
+Added files that were missing from original source package. Tested and working May 2021! 
+
 #Simple setup guide for Phoenix Generator Source.
 
 (1). Open /pieces/inc.php
