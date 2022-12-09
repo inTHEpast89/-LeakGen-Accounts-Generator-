@@ -1,6 +1,6 @@
 Added files that were missing from original source package. Tested, Updated and fully working May 2021! 
 
-#Simple setup guide for Phoenix Generator Source.
+#Simple setup guide for LeakGen Generator Source.
 
 (1). Open /pieces/inc.php
 (2). Configure your MySQL connection.
