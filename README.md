@@ -1,4 +1,4 @@
-Added files that were missing from original source package. Tested and working May 2021! 
+Added files that were missing from original source package. Tested, Updated and fully working May 2021! 
 
 #Simple setup guide for Phoenix Generator Source.
 
@@ -17,14 +17,28 @@ TIPS:
  - Go to the admin panel and you have all permissions under your generator.
  
  #Features:
+ 
 Own Captcha system.
+
 Free updates for future versions.
+
 Lightweight source.
+
 MySQLi connections.Secured, reliable & fast.
+
 Included payment gateway.
+
 Manage your generator from your admin panel.
+
 Remove after X generations.
+
 Bitcoin & Paypal payment gateways.
+
 AJAX Account generating.
+
 Manage each plan, how much accounts it can generate per day, price & expiring.
+
 A lot more+
+
+Leak.Tools - Web Based Online Tools for Leaks, LeakGen parent.
+LeakURL.com - Directory of Leak Sites, find, add, grow!
